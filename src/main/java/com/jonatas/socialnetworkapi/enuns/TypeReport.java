@@ -1,0 +1,10 @@
+package com.jonatas.socialnetworkapi.enuns;
+
+public enum TypeReport {
+
+	SEXUAL_CONTENT,
+	VIOLENT_OR_REPULSIVE_CONTENT,
+	HATEFUL_OR_ABUSIVE_CONTENT,
+	HARMFUL_OR_DANGEROUS_ACTS,
+	SPAM_OR_MISLEADING,
+}
